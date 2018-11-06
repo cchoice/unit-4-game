@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(163, 162, 162);
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: rgb(247, 222, 6) 
+	color: white;
+}
+
+.target-number {
+	font-size: 30px;
+	background-color: rgb(248, 244, 0);
+	border-style: solid;
+	border-color:white;
+	border-width: 4px;
+}
+
+.win-lose-counter {
+	background-color: #9CE7F8;
+	border-style: solid;
+	border-color: white;
+	border-width: 4px;
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	color: white;
+	background-color: #00b5ec;
+}
+
+.score-number {
+	color: white;
+	background-color: #4aaaa5;
+	font-size: 30px;
+}
